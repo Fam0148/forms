@@ -1,0 +1,17 @@
+.container
+{   
+    margin-top: 300px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+
+}
+button{
+    background-color: brown;
+    padding: 8px;
+    color: aliceblue;
+    border-radius: 5px;
+}
